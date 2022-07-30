@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on solving problems at Browserstack
 - 🌱 I’m currently learning different testing frameworks and devops products across languages
 - 👯 I’m looking to collaborate on open source testing, devops and ML frameworks
-- 💬 Ask me about QA and Devops
+- 💬 Ask me about QA, Devops and Automation
 - 😄 Pronouns: He/Him
 
 
