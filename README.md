@@ -56,10 +56,6 @@ I'm **Akhil Cherian** — working at the intersection of QA, DevOps and AI. I sh
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 📊 GitHub Stats
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil7000&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil7000&layout=compact&theme=tokyonight)
-
 ###  📞 Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/akhil7000)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-cherian-9883ba120/)
